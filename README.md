@@ -17,7 +17,7 @@ Here are the solution for the all thye 4 problems
 - Here the the printing operations does not depend upon the typer of input wheather it is even or odd
 
 **Problem 3 (Conditional Series):**
-- I confused by this first but later i understood it is same as problem except it is depend upon the nature of the input
+- I confused by this first but later i understood it is same as problem 2 except it is depend upon the nature of the input
 - check: if the input is even, the series length is reduced by one (`n-1`).
 - that means if the input is even i.e 4 then only it prints n-1 terms of odd number that is it prints only 3 odd number starting from 1 
 
